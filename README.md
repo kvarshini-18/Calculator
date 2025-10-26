@@ -36,7 +36,7 @@ This version focuses on simplicity, clarity, and efficient functionality with an
 
 ## User Interface Overview
 
-<img width="529" height="600" alt="image" src="https://github.com/user-attachments/assets/376716a1-95a1-49ec-bdf4-4bb6831ea968" />
+<img width="429" height="500" alt="image" src="https://github.com/user-attachments/assets/376716a1-95a1-49ec-bdf4-4bb6831ea968" />
 
 
 ## File Structure
